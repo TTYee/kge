@@ -1,0 +1,21 @@
+sphinx == 5.1.1
+recommonmark
+sphinx-markdown-tables
+sphinx_rtd_theme
+numpy>=1.19.0
+torch>=1.7.1
+pyyaml
+pandas
+argparse
+path
+ax-platform>=0.1.19
+botorch>=0.4.0
+gpytorch>=1.4.2
+sqlalchemy<2.0.0
+torchviz
+numba>=0.50.0
+hpbandster
+ConfigSpace
+pytest-shutil
+igraph
+git+https://github.com/TTYee/kge.git

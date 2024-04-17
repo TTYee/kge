@@ -10,6 +10,8 @@ Welcome to LibKGE's documentation!
    :maxdepth: 4
    :caption: Contents:
 
+   source/kge
+
 
 Indices and tables
 ==================
